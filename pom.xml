@@ -49,7 +49,7 @@
     <properties>
         <apache.httpclient.version>4.5.3</apache.httpclient.version>
         <bouncycastle.bcpkix.version>1.58</bouncycastle.bcpkix.version>
-        <confluent.maven.repo>https://packages.confluent.io/maven/</confluent.maven.repo>
+        <confluent.maven.repo>http://packages.confluent.io/maven/</confluent.maven.repo>
         <!-- can't upgrade jersey past 2.25 until we move to java 8 -->
         <jersey.version>2.25</jersey.version>
         <!-- can't upgrade jetty past 9.2 until we move to java 8 -->
